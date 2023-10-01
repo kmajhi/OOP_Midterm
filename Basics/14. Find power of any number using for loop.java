@@ -15,7 +15,5 @@ public class Main {
             result = result*base;
         }
         System.out.println("The power of " + base + "^" + exponent + " is = " + result);
-
-
     }
 }
